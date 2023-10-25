@@ -1,0 +1,72 @@
+.contact{
+    margin-top: 100px;
+}
+.heading{
+    margin-left: 40%;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.contact p{
+    margin-left: 38%;
+    color: rgb(206, 206, 206);
+    font-size: 14px;
+    width: 700px;
+}
+.name{
+    margin-left: 35%;
+    margin-top: 20px;
+    font-size: medium;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    width: 400px;
+    background-color: rgb(78, 78, 78);
+    color: white;
+}
+.em{
+    margin-left: 35%;
+    margin-top: 10px;
+    font-size: medium;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    width: 400px;
+    background-color: rgb(78, 78, 78);
+    color: white;
+}
+.in{
+    margin-left: 35%;
+    margin-top: 10px;
+    font-size: medium;
+    border-radius: 5px;
+    border: none;
+    height: 120px;
+    width: 400px;
+    background-color: rgb(78, 78, 78);
+    color: white;
+}
+.submit{
+    margin-left: 45%;
+    margin-top: 20px;
+    font-size: medium;
+    border: none;
+    border-radius: 10px;
+    color: black;
+    height: 40px;
+    width: 120px;
+}
+.s{
+    margin-top: 30px;
+    margin-left: 35%;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.s img{
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 20px;
+}

@@ -1,0 +1,54 @@
+.about{
+    margin-top: 180px;
+}
+.heading{
+    margin-left: 40%;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.about p{
+    margin-left: 25%;
+    color: rgb(206, 206, 206);
+    font-size: 14px;
+    width: 600px;
+}
+.about-info-1{
+    margin-top: 30px;
+    background-color: gray;
+    height: 100px;
+    width: 700px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 23%;
+    display: flex;
+    align-items: center;
+}
+.about-info-2{
+    margin-top: 50px;
+    background-color: gray;
+    height: 100px;
+    width: 700px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 23%;
+    display: flex;
+    align-items: center;
+}
+.img img{
+    margin-left: 20px;
+height: 70px;
+width: 70px;
+border-radius: 10px;
+}
+.title{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.title h4{
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(185, 185, 185);
+}

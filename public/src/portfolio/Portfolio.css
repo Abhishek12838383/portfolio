@@ -1,0 +1,43 @@
+.portfolio{
+    margin-top: 200px;
+}
+.heading{
+    margin-left: 40%;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.portfolio p{
+    margin-left: 30%;
+    color: rgb(206, 206, 206);
+    font-size: 14px;
+    width: 480px;
+}
+.img-1{
+    margin-top: 40px;
+    margin-left: 15%;
+}
+.img-2{
+    margin-top: 10px;
+    margin-left: 15%;
+}
+.img-1 img{
+    margin-left: 40px;
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+}
+.img-1 img:hover{
+    transition: ease-in;
+    border: 5px solid yellow;
+}
+.img-2 img:hover{
+    transition: ease-in;
+    border: 5px solid yellow;
+}
+.img-2 img{
+    margin-left: 40px;
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+}

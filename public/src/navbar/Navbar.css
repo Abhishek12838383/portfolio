@@ -1,0 +1,35 @@
+.navbar{
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar img{
+    height: 150px;
+    width: 150px;
+}
+.nav-menu ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    color: white;
+}
+.nav-menu ul li{
+    cursor: pointer;
+ padding: 20px;
+}
+.nav-menu ul li:hover{
+    color: yellow;
+    padding-top: 5%;
+    border-bottom: 8px solid yellow;
+}
+.nav-contactbtn{
+margin-right: 5%;
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: white;
+}
